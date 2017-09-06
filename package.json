@@ -1,0 +1,22 @@
+{
+  "name": "chalk-jaysinnd",
+  "version": "1.0.0",
+  "description": "chalk-jaysinnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/chalk-jaysinnd.git"
+  },
+  "author": "Jason Dean <jd0877656@otc.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/chalk-jaysinnd/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/chalk-jaysinnd#readme",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
