@@ -9,3 +9,5 @@ console.log(chalk.blue('My story - I, along with others, ended up at OTC because
 console.log(chalk.yellow('decided they would sell out to a company that had several shops in Mexico.'))
 console.log(chalk.magenta('Once this happened, the state stepped in and said we all qualified for the TRA program (trade readjustment act).'))
 console.log(chalk.green('This would allow myself and others from Polar Tank to go to college (even if it is a bit later in life for some of us).'))
+console.log(chalk.yellow(' '));
+console.log(chalk.yellow('This new line was done from my home setup. Again, Happy Birthday duder!'));
